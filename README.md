@@ -10,7 +10,7 @@
 languages : Python · JavaScript/TypeScript · C# · HTML/CSS
 focus     : AI-integrated full-stack apps — web, mobile, game
 based     : Queen's University — CS, AI focus
-status    : open to freelance + full-time work
+status    : open to internships, freelance + full-time work
 ```
 
 ### `andrewt14@github:~$ cat about.md`
@@ -67,8 +67,14 @@ Currently open to freelance and full-time work.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=andrewt14&hide_border=true&background=0A0E0C&ring=39FF88&fire=FFB454&currStreakLabel=39FF88&sideLabels=C8E6D0&currStreakNum=C8E6D0&sideNums=C8E6D0&dates=5C6F66&stroke=1F8F52" alt="GitHub streak stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api?username=andrewt14&show_icons=true&hide_border=true&count_private=true&bg_color=0A0E0C&title_color=39FF88&icon_color=FFB454&text_color=C8E6D0&border_color=1F8F52" alt="GitHub stats" height="180"/>
+<img src="https://github-profile-trophy.vercel.app/?username=andrewt14&theme=matrix&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+
+<table>
+<tr>
+<td><img src="https://streak-stats.demolab.com?user=andrewt14&hide_border=true&background=0A0E0C&ring=39FF88&fire=FFB454&currStreakLabel=39FF88&sideLabels=C8E6D0&currStreakNum=C8E6D0&sideNums=C8E6D0&dates=5C6F66&stroke=1F8F52" alt="GitHub streak stats" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=andrewt14&show_icons=true&hide_border=true&count_private=true&bg_color=0A0E0C&title_color=39FF88&icon_color=FFB454&text_color=C8E6D0&border_color=1F8F52" alt="GitHub stats" /></td>
+</tr>
+</table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=andrewt14&bg_color=0A0E0C&color=39FF88&line=39FF88&point=FFB454&area=true&hide_border=true&hide_title=true" alt="Contribution activity graph" width="90%"/>
 
@@ -76,8 +82,24 @@ Currently open to freelance and full-time work.
 
 ### `andrewt14@github:~$ cat contact.txt`
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-10151A?style=for-the-badge&logo=linkedin&logoColor=39FF88)](https://www.linkedin.com/in/andrew-tsotsos-344701392/)
 [![Upwork](https://img.shields.io/badge/Upwork-10151A?style=for-the-badge&logo=upwork&logoColor=FFB454)](https://www.upwork.com/freelancers/~01265973a29d8e973b)
 [![Email](https://img.shields.io/badge/Email-10151A?style=for-the-badge&logo=gmail&logoColor=39FF88)](mailto:andrewtsotsos@gmail.com)
 
+</div>
+
 ### `andrewt14@github:~$ ./say_hi.sh`
+
+```
+[ok] connection established
+[ok] response time: < 24h
+> let's build something great.
+```
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=andrewt14&color=39FF88&style=for-the-badge&label=PROFILE+VIEWS&labelColor=10151A)
+
+</div>
