@@ -67,7 +67,7 @@ Currently open to freelance and full-time work.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=andrewt14&theme=matrix&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=andrewt14&theme=matrix&no-frame=true&margin-w=8&row=1&column=2&titles=Commits,Repositories" alt="GitHub trophies" />
 
 <table>
 <tr>
@@ -97,9 +97,3 @@ Currently open to freelance and full-time work.
 [ok] response time: < 24h
 > let's build something great.
 ```
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=andrewt14&color=39FF88&style=for-the-badge&label=PROFILE+VIEWS&labelColor=10151A)
-
-</div>
