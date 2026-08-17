@@ -63,22 +63,6 @@ Currently open to freelance and full-time work.
 | `qhub/` | Co-founded social app for Queen's students — React Native + Supabase, in active development | [q-hub-iota.vercel.app](https://q-hub-iota.vercel.app) |
 | `lovely-the-cafe/` | Full business site for a local café — Next.js, Tailwind, Formspree | [lovely-the-cafe.vercel.app](https://lovely-the-cafe.vercel.app) |
 
-### `andrewt14@github:~$ git log --stat --author=andrewt14`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=andrewt14&theme=matrix&no-frame=true&margin-w=8&row=1&column=2&titles=Commits,Repositories" alt="GitHub trophies" />
-
-<table>
-<tr>
-<td><img src="https://streak-stats.demolab.com?user=andrewt14&hide_border=true&background=0A0E0C&ring=39FF88&fire=FFB454&currStreakLabel=39FF88&sideLabels=C8E6D0&currStreakNum=C8E6D0&sideNums=C8E6D0&dates=5C6F66&stroke=1F8F52" alt="GitHub streak stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api?username=andrewt14&show_icons=true&hide_border=true&count_private=true&bg_color=0A0E0C&title_color=39FF88&icon_color=FFB454&text_color=C8E6D0&border_color=1F8F52" alt="GitHub stats" /></td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrewt14&bg_color=0A0E0C&color=39FF88&line=39FF88&point=FFB454&area=true&hide_border=true&hide_title=true" alt="Contribution activity graph" width="90%"/>
-
-</div>
 
 ### `andrewt14@github:~$ cat contact.txt`
 
