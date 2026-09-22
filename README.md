@@ -119,6 +119,13 @@ Social app for Queen's students. Founded. Campus events feed, live maps, real-ti
 </picture>
 </div>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrewt14/andrewt14/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/andrewt14/andrewt14/output/github-snake.svg" alt="contribution snake" />
+</picture>
+</div>
+
 <!-- ===================== CONTACT ===================== -->
 
 ### `andrewt14@github:~$ ./hire_me.sh --summer-2027`
