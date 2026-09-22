@@ -47,7 +47,7 @@ also      : freelance dev on Upwork
 #### 📱 `qhub/`
 Social app for Queen's students. Founded. Campus events feed, live maps, real-time group messaging, and a bar/gym line tracker.
 
-`Vite` `React` `Supabase` `Vercel`
+`Vite` `React` `Next.js` `Supabase` 
 
 <a href="https://apps.apple.com/ca/app/qhub/id6802519129"><img src="https://img.shields.io/badge/App_Store-LIVE-39FF88?style=for-the-badge&logo=apple&logoColor=39FF88&labelColor=0A0E0C" /></a>
 
