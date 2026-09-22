@@ -22,9 +22,9 @@
 name      : Andrew Tsotsos
 school    : Queen's University, Computer Science (AI specialization)
 focus     : AI-integrated full-stack apps: web, mobile, game
-languages : Python · JavaScript/TypeScript · C# · HTML/CSS
+languages : Python · JavaScript/TypeScript · C · HTML/CSS
 seeking   : Summer 2027 internship (SWE / full-stack / AI)
-also      : freelance dev on Upwork · founder, Sauce Studios
+also      : freelance dev on Upwork 
 ```
 
 ### `andrewt14@github:~$ git log --oneline --since="this year"`
