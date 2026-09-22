@@ -34,7 +34,6 @@ also      : freelance dev on Upwork
 + [shipped]  faceoff     → NHL career comparison tool with stat-backed chirps, live on Vercel
 + [shipped]  lovely-cafe → full production site for a local café
 ~ [loading]  nebula-dash → solo-built Unity endless runner, App Store launch incoming
-- [deleted]  prototypes that never ship
 ```
 
 <!-- ===================== PROJECTS ===================== -->
@@ -109,21 +108,6 @@ also      : freelance dev on Upwork
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,unity,supabase&theme=dark" />
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,postman,apple&theme=dark" />
-
-</div>
-
-<!-- ===================== STATS ===================== -->
-
-### `andrewt14@github:~$ top -u andrewt14`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=andrewt14&show_icons=true&include_all_commits=true&count_private=true&bg_color=0A0E0C&title_color=39FF88&icon_color=FFB454&text_color=C9D1D9&border_color=1F3A2B&ring_color=39FF88" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewt14&layout=compact&langs_count=6&bg_color=0A0E0C&title_color=39FF88&text_color=C9D1D9&border_color=1F3A2B" />
-
-<img src="https://streak-stats.demolab.com?user=andrewt14&background=0A0E0C&border=1F3A2B&ring=39FF88&fire=FFB454&currStreakNum=39FF88&sideNums=39FF88&currStreakLabel=FFB454&sideLabels=C9D1D9&dates=6E7681&stroke=1F3A2B" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andrewt14&bg_color=0A0E0C&color=39FF88&line=39FF88&point=FFB454&area=true&area_color=39FF88&hide_border=true&title_color=39FF88" width="100%" />
 
 </div>
 
