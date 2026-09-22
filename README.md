@@ -45,7 +45,7 @@ also      : freelance dev on Upwork
 <td width="50%" valign="top">
 
 #### 📱 `qhub/`
-**Social app for Queen's students.** Co-founded. Events feed with auto-scraped campus events, live maps, real-time group messaging, and a bar/gym line tracker.
+Social app for Queen's students. Founded. Campus events feed, live maps, real-time group messaging, and a bar/gym line tracker.
 
 `Vite` `React` `Supabase` `Vercel`
 
@@ -67,7 +67,7 @@ also      : freelance dev on Upwork
 <td width="50%" valign="top">
 
 #### 🚀 `nebula-dash/`
-**Unity endless runner, built solo in C#** under Sauce Studios. Game design, art pipeline, and iOS build pipeline end to end.
+**Unity endless runner, built solo in C#**. Game design, art pipeline, and iOS build pipeline end to end.
 
 `Unity` `C#` `Xcode`
 
@@ -124,8 +124,6 @@ also      : freelance dev on Upwork
 ### `andrewt14@github:~$ ./hire_me.sh --summer-2027`
 
 ```bash
-[ok] candidate located: andrew tsotsos
-[ok] shipped to production: 3 apps, 1 game loading
 [ok] availability: summer 2027 internship
 [ok] response time: < 24h
 > recruiters: ping me below. let's build something great.
